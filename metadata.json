@@ -1,0 +1,8 @@
+{
+  "name": " CyberShield",
+  "description": "Comprehensive Cyber Security Toolkit, Cryptography Lab, Privacy Auditor, and BCA College Project Suite with Viva Guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
